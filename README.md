@@ -1,4 +1,5 @@
 # Trabalho Fundamentos Sistemas Computacionais
+## Gabriel Araujo Colling 25100939
 - Este projeto tem como objetivo a implementação de uma ULA (Unidade Lógica e Aritmética) simples utilizando portas lógicas básicas e componentes digitais. A ULA é capaz de realizar diferentes operações (aritméticas e lógicas) de acordo com o seletor de um multiplexador.
 
 ### Componentes Utilizados
